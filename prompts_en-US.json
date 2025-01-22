@@ -6,7 +6,7 @@
         {
           "scenario": "offline",
           "brands": {
-            "ALL": "Thank you"
+            "BMW": "Thank you"
           }
         }
       ]
@@ -17,7 +17,7 @@
         {
           "scenario": "offline",
           "brands": {
-            "ALL": "Thank you second"
+            "BMW": "Thank you second"
           }
         }
       ]
@@ -28,7 +28,7 @@
         {
           "scenario": "offline",
           "brands": {
-            "ALL": "Thank you third"
+            "BMW": "Thank you third"
           }
         }
       ]

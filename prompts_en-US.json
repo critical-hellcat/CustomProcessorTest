@@ -34,23 +34,13 @@
       ]
     },
     {
-      "id": "customPersonality.compliment.success",
-      "scenarios": [
-        {
-          "scenario": "offline",
-          "brands": {
-            "MINI": "Personality now"
-          }
-        }
-      ]
-    },
-    {
       "id": "customPersonality.compliment.success.0",
       "scenarios": [
         {
           "scenario": "offline",
           "brands": {
-            "BMW": "Yea bmw"
+            "BMW": "Yea bmw",
+            "MINI": "Personality now"
           }
         }
       ]
@@ -61,7 +51,30 @@
         {
           "scenario": "offline",
           "brands": {
-            "BMW": "yeah bmw-one"
+            "BMW": "yeah bmw-one",
+            "MINI": "personality new"
+          }
+        }
+      ]
+    },
+    {
+      "id": "customPersonality.compliment.success.0",
+      "scenarios": [
+        {
+          "scenario": "offline",
+          "brands": {
+            "MINI": "Personality now"
+          }
+        }
+      ]
+    },
+    {
+      "id": "customPersonality.compliment.success.1",
+      "scenarios": [
+        {
+          "scenario": "offline",
+          "brands": {
+            "MINI": "personality new"
           }
         }
       ]

@@ -32,6 +32,17 @@
           }
         }
       ]
+    },
+    {
+      "id": "customPersonality.compliment.success",
+      "scenarios": [
+        {
+          "scenario": "offline",
+          "brands": {
+            "MINI": "Personality now"
+          }
+        }
+      ]
     }
   ]
 }

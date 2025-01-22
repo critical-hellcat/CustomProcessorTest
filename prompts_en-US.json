@@ -43,6 +43,28 @@
           }
         }
       ]
+    },
+    {
+      "id": "customPersonality.compliment.success.0",
+      "scenarios": [
+        {
+          "scenario": "offline",
+          "brands": {
+            "BMW": "Yea bmw"
+          }
+        }
+      ]
+    },
+    {
+      "id": "customPersonality.compliment.success.1",
+      "scenarios": [
+        {
+          "scenario": "offline",
+          "brands": {
+            "BMW": "yeah bmw-one"
+          }
+        }
+      ]
     }
   ]
 }

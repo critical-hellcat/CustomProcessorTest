@@ -1,0 +1,15 @@
+{
+  "texts": [
+    {
+      "id": "customCarInfo.compliment.success",
+      "scenarios": [
+        {
+          "scenario": "offline",
+          "brands": {
+            "ALL": "Thank you"
+          }
+        }
+      ]
+    }
+  ]
+}

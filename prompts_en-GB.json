@@ -1,0 +1,15 @@
+{
+  "texts": [
+    {
+      "id": "customPersonality.test.success.zibah",
+      "scenarios": [
+        {
+          "scenario": "offline",
+          "brands": {
+            "MINI": "Thank you very much"
+          }
+        }
+      ]
+    }
+  ]
+}
